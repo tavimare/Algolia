@@ -1,0 +1,42 @@
+Question 1: Hello,
+I'm new to search engines, and there are a lot of concepts I'm not educated on. To make my onboarding smoother, it'd help if you could provide me with some definitions of the following concepts:
+* Records
+* Indexing
+I'm also struggling with understanding what types of metrics would be useful to include in the "Custom Ranking."
+Cheers, George
+
+Hello George,
+
+I would be my pleasure to help you advance on this new topic.
+The records are the entries that are stored in the dataset. The records will be the output of the queries executed on the server.
+The indexing is a means of optimizing the performances of a database by reducing to the minimum access to disc during the treatment of a request/query. An index or is a structure of data used to locate and reach quickly the data (record). 
+Related to Custom Ranking it is up to you to decide which metrics are useful for you depending on the objectives that were defined. I invite you to check some of the examples we have on our help page and then to test the implementation. Do not hesitate to get back to me if you have any troubles with this.
+Cheers,
+Octavian
+
+
+
+Question 2: Hello,
+Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
+Regards, Matt
+
+Hello Matt,
+
+We appreciate that you took the time to provide us with your feedback. I understand that this is less convenient for you when you need to clear or delete the indexes, however the dashboard design was implemented in order to facilitate access to more common features. The decision to put the Clearing and deleting indexes a few clicks away was based on the fact that is not a regular operation. However, I take note of your suggestion and forward it to the product team.  
+Thanks again for providing us with your feedback.
+
+Best Regards,
+Octavian 
+
+
+Question 3: Hi,
+I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high-level process look like?
+Regards, Leo
+
+Dear Leo,
+
+I am pleased to hear that you have decided to integrate Algolia on your website. The development work is not complex and is very well documented on our page and to give you a timeline I would say it does not take more than a couple of hours, but of course all depends on what is your skill and your objective. I can send you a link to this knowledge base and invite you to have a look and then get back to me with any questions you might have.
+
+Best Regards,
+Octavian 
+
