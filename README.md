@@ -5,6 +5,7 @@ Hello guys, sorry for the delay but it has been a full week (just before my holi
 Related to my homework:) 
 
 I have uploaded the my code as zip archive but also as a link available here:  https://rsbv9.codesandbox.io/ 
+The feedback related to the code is added as comments, but I could also present it to you.
 
 I have attached a photo of the output of my search query
 
